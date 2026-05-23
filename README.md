@@ -190,7 +190,7 @@ Provides:
 
 ### 🌦️ Operational & Weather Analysis Dashboard
 
-![Operational & Weather Analysis](dashboards/operational_weather_analysis.png)
+[Operational & Weather Analysis](dashboards/operational_weather_analysis.png)
 
 ---
 
