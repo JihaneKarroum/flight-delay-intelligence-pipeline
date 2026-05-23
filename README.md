@@ -184,7 +184,7 @@ Provides:
 
 ### ✈️ Flight Delay Overview Dashboard
 
-![Flight Delay Overview](D:\Ynov_Compétences Techniques\Flight Delay & Risk Intelligence Pipeline\flight_delay_intelligence_pipeline\dashboards\flight_delay_overview.png)
+![Flight Delay Overview](dashboards\flight_delay_overview.png)
 
 ---
 
