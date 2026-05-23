@@ -184,7 +184,7 @@ Provides:
 
 ### ✈️ Flight Delay Overview Dashboard
 
-(dashboards/flight_delay_overview.png)
+!(dashboards/flight_delay_overview.png)
 
 ---
 
